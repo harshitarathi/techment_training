@@ -1,0 +1,25 @@
+====================================================================
+Exercise -1 (The Glass House)
+
+Algorithm:-
+
+1) Enter two digit number
+2) Seperate the once and tens place value
+3) Add both the values
+4) Store  and print the result.
+
+Exercise-2 (Traffic congestion problem)
+
+Algorithm:-
+1)enter the vehical number
+2)Check whether the given number is same as date of month or not if not print invalid
+3)Else check for even or odd
+4)If even print only vehical with even numbers are allowed otherwise odd number vehicals are allowed.
+
+Exercise-3(choosing the best horse)
+
+algorithm:-
+1)Enter the weight of thre horses
+2)Check for the max weighted horse
+3)Select that as a good horse
+
